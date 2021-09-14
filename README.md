@@ -1,3 +1,3 @@
 # Jones-Automation
 
-When cloning use - npm install - before runnig
+When cloning use - npm install - before running
